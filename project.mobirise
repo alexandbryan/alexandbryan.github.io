@@ -176,19 +176,22 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "src": "@THEME_PATH@/components/_images/logo.png",
+              "src": "file:///Applications/Mobirise.app/Contents/Resources/app.asar/web/app/builder/../../app/themes/mobirise3/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com"
+              "link": "http://alexandbryan.com",
+              "title": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
               "linkInNewWindow": false,
-              "name": "heart",
-              "family": "et-line",
-              "link": "https://mobirise.com",
+              "name": "hearth",
+              "family": "MobiriseIcons",
+              "link": "http://alexandbryan.com",
               "size": 0,
               "color": "#000000",
+              "newWindow": false,
               "active": true
             }
           },
