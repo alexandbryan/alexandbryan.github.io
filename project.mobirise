@@ -37,7 +37,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "A♥️B",
+        "title": "Alex & Bryan",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -65,8 +65,8 @@
                 "title": "11.24.18",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>♥️",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE THE DATE</a>"
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-21-1682x1682.jpg",
@@ -79,8 +79,8 @@
                 "title": "11.24.18",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>♥️",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE THE DATE</a> "
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
@@ -93,8 +93,8 @@
                 "title": "11.24.18",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>♥️",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SAVE THE DATE</a> "
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
               }
             ]
           },
