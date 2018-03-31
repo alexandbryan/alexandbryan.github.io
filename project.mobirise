@@ -70,7 +70,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-21-1682x1682.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -84,7 +84,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
