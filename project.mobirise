@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-31_1530",
+    "name": "AandB",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -28,13 +28,16 @@
     "versionFirst": "4.6.7",
     "uniqCompNum": 6,
     "versionPublish": "4.6.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116659976-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116659976-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "A♥️B",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -53,7 +56,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-2050-1920x1920.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -81,7 +84,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -173,7 +176,6 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
-              "active": true,
               "src": "@THEME_PATH@/components/_images/logo.png",
               "height": 128,
               "alt": "Mobirise",
@@ -181,8 +183,13 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "heart",
+              "family": "et-line",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 0,
+              "color": "#000000",
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ALEX &amp; BRYAN<br>11.24.18<br></a>",
