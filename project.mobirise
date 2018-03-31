@@ -48,15 +48,15 @@
           "_params": {
             "autoplay": true,
             "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "0",
             "showBullets": true,
             "bgColor": "#fff",
             "timeout": 5,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/img-2050-1920x1920.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -84,7 +84,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
