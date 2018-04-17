@@ -1,0 +1,111 @@
+{
+  "settings": {
+    "name": "AandB",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#7e9b9f",
+        "secondaryColor": "#7e9b9f",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#bfcecb"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.6.7",
+    "uniqCompNum": 10,
+    "versionPublish": "4.7.1",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32-1.png",
+    "noImageResize": "",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-116659976-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-116659976-1');\r\n</script>"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "A&B - 11.24.18",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": 5,
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-21-1682x1682.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "11.24.18",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "11.24.18",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-2050-1920x1920.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "11.24.18",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-4"
+        }
+      ]
+    }
+  }
+}
