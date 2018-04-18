@@ -26,7 +26,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.7",
-    "uniqCompNum": 10,
+    "uniqCompNum": 11,
     "versionPublish": "4.7.1",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32-1.png",
@@ -46,65 +46,32 @@
       "components": [
         {
           "_params": {
-            "autoplay": false,
-            "fullScreen": true,
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "showBullets": true,
-            "bgColor": "#fff",
-            "timeout": 5,
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x719.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "11.24.18",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> ",
-                "overlayOpacity": "1"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/hudsonvalleyseen-18382013-1909689339316640-6680148865250754560-n-1080x7191.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "11.24.18",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img-2050-1920x1920.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "11.24.18",
-                "overlay": true,
-                "contentAlign": "center",
-                "text": "Alex &amp; Bryan <br>Pocantico Hill, New York<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://www.addevent.com/event/ul982268\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"mbrib-calendar mbr-iconfont mbr-iconfont-btn\"></span>SAVE THE DATE</a> "
-              }
-            ]
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/hvs-1080x719.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5
           },
-          "articleLayout": false,
+          "title": "Alex and Bryan",
+          "text": "11.14.18",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "slider",
-          "_anchor": "slider-4"
+          "_name": "header1",
+          "_anchor": "header1-a"
         }
       ]
     }
