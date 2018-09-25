@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "AandB_Full",
-    "currentPage": "index.html",
+    "currentPage": "when.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
     },
     "versionFirst": "4.3.2",
     "uniqCompNum": 118,
-    "versionPublish": "4.7.2",
+    "versionPublish": "4.7.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/favicon-32x32-32x32-1-32x32.png",
